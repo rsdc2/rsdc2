@@ -1,5 +1,9 @@
-## Hi there 👋
+## About
 
+I am a software developer with a background in theoretical linguistics. I am particularly interested in the relationship between (natural and programming) languages and mathematical structures.
+
+## Languages and frameworks
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,dotnet,py,haskell)](https://skillicons.dev)
 <!--
 **rsdc2/rsdc2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
