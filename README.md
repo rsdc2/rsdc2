@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=ts,js,cs,dotnet,py,haskell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cs,dotnet,haskell,ts,js)](https://skillicons.dev)
 ## About 
 I am a software developer with a background in theoretical linguistics. I am particularly interested in the relationship between (natural and programming) languages and mathematical structures.
 
