@@ -1,12 +1,12 @@
-## About [![My Skills](https://skillicons.dev/icons?i=ts,js,cs,dotnet,py,haskell)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=ts,js,cs,dotnet,py,haskell)](https://skillicons.dev)
+## About 
 I am a software developer with a background in theoretical linguistics. I am particularly interested in the relationship between (natural and programming) languages and mathematical structures.
 
 
 ## Key projects
-- [PyEpiDoc](https://github.com/rsdc2/PyEpiDoc), a Python library for manipulating and querying TEI EpiDoc files: TEI is a format for richly encoding information about written text.
-- [qsharp-math-utils](https://github.com/rsdc2/qsharp-math-utils), a library written in Q# for manipulating mathematical structures important in quantum computing
-- [syntax-treebank-annotator](https://github.com/rsdc2/syntax-treebank-annotator), an annotation environment for natural langauge syntax
+- [PyEpiDoc](https://github.com/rsdc2/PyEpiDoc): a Python library for manipulating and querying TEI EpiDoc files: TEI is a format for richly encoding information about written text.
+- [qsharp-math-utils](https://github.com/rsdc2/qsharp-math-utils): a library written in Q# for manipulating mathematical structures important in quantum computing
+- [syntax-treebank-annotator](https://github.com/rsdc2/syntax-treebank-annotator): an annotation environment for natural langauge syntax
 
 ## Academic interests
 
