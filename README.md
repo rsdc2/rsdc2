@@ -4,7 +4,8 @@ I am a software developer with a background in theoretical linguistics. I am par
 
 
 ## Key projects
-- [PyEpiDoc](https://github.com/rsdc2/PyEpiDoc): a Python library for manipulating and querying TEI EpiDoc files: TEI is a format for richly encoding information about written text.
+- [epidoc-for-dotnet](https://github.com/rsdc2/epidoc-for-dotnet): a library written in C# and Visual Basic for manipulating and querying TEI EpiDoc XML files: TEI is a format for richly encoding information about written text. 
+- [PyEpiDoc](https://github.com/rsdc2/PyEpiDoc): a Python library for manipulating and querying TEI EpiDoc XML files: TEI is a format for richly encoding information about written text.
 - [qsharp-math-utils](https://github.com/rsdc2/qsharp-math-utils): a library written in Q# for manipulating mathematical structures important in quantum computing
 - [syntax-treebank-annotator](https://github.com/rsdc2/syntax-treebank-annotator): an annotation environment for natural langauge syntax
 
