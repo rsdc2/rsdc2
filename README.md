@@ -9,9 +9,10 @@ I am a software developer with a background in theoretical linguistics. I am par
 - [qsharp-math-utils](https://github.com/rsdc2/qsharp-math-utils): a library written in Q# for manipulating mathematical structures important in quantum computing
 - [syntax-treebank-annotator](https://github.com/rsdc2/syntax-treebank-annotator): an annotation environment for natural langauge syntax
 
-## Academic interests
+## Interests
 
 - Linguistics and NLP
+- Writing systems
 - Category theory
 - Quantum computing
 - Programming language typology
