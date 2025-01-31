@@ -1,6 +1,6 @@
 <!-- [![My Skills](https://skillicons.dev/icons?i=py,cs,dotnet,haskell,ts,js)](https://skillicons.dev) -->
 ## About me
-I am a software developer with a background in theoretical linguistics. I am particularly interested in the relationship between (natural and programming) languages and mathematical structures, but generally interested in anything to do with programming languages and software engineering.
+I am a software developer with a background in computational and theoretical linguistics. I am particularly interested in the relationship between (natural and programming) languages and mathematical structures, but generally interested in anything to do with programming languages and software engineering.
 
 
 ## Key projects
