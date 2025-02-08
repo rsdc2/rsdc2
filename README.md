@@ -2,13 +2,13 @@
 ## About me
 I am a software developer and content engineer with a background in computational and theoretical linguistics. I am particularly interested in the relationship between (natural and programming) languages and mathematical structures, but generally interested in anything to do with programming languages and software engineering.
 
-## Programming languages
+### Programming languages
 [![My Skills](https://skillicons.dev/icons?i=py,cs,dotnet,haskell,ts,js,latex)](https://skillicons.dev)
 
-## Tools, library and workflows
+### Tools, library and workflows
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,github,d3)](https://skillicons.dev)
 
-## Operating systems
+### Operating systems
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu)](https://skillicons.dev)
 
 ## Key projects
