@@ -24,6 +24,7 @@ I am a software developer and content engineer with a background in computationa
 
 - Linguistics and NLP
 - Writing systems
+- Word processing systems and their history
 - Category theory
 - Quantum computing
 - Programming language typology
