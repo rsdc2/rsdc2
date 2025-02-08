@@ -15,7 +15,6 @@ I am a software developer and content engineer with a background in computationa
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu)](https://skillicons.dev)
 
 ## Key projects
-- [epidoc-for-dotnet](https://github.com/rsdc2/epidoc-for-dotnet): A library written in C# and Visual Basic for manipulating and querying TEI EpiDoc XML files: TEI is a format for richly encoding information about written text. 
 - [PyEpiDoc](https://github.com/rsdc2/PyEpiDoc): A Python library for manipulating and querying TEI EpiDoc XML files.
 - [haskell-odt-writer](https://github.com/rsdc2/haskell-odt-writer): A Haskell tool for composing OpenDocument Text (`.odt`) files.
 - [qsharp-math-utils](https://github.com/rsdc2/qsharp-math-utils): A library written in Q# for manipulating mathematical structures important in quantum computing
