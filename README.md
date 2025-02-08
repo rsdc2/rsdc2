@@ -5,6 +5,9 @@ I am a software developer and content engineer with a background in computationa
 ### Programming languages
 [![My Skills](https://skillicons.dev/icons?i=py,cs,dotnet,haskell,ts,js,latex)](https://skillicons.dev)
 
+### Markup
+[![My Skills](https://skillicons.dev/icons?i=latex,html,css,)](https://skillicons.dev)
+
 ### Tools, library and workflows
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,github,d3)](https://skillicons.dev)
 
